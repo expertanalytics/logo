@@ -5,6 +5,7 @@ Here is a collection of Expert Analytics logos.
 
 [Standard logos](standard/)
 ---------------------------
+Meant for light backgrounds.
 
 Plain logo:
 
@@ -20,6 +21,7 @@ Pure text:
 
 [Light logos](light/)
 ---------------------
+Meant for dark backgrounds.
 
 Plain logo:
 
