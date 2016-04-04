@@ -7,22 +7,22 @@ Standard logos
 --------------
 
 Plain logo:
-![Logo](standard/logo_plain.png)
+<img src="standard/logo_plain.png" width="60">
 
 Texted logo:
-![Logo](standard/logo_texted.png)
+<img src="standard/logo_texted.png" width=300>
 
 Pure text:
-![Logo](standard/logo_puretext.png)
+<img src="standard/logo_puretext.png" width=240>
 
 Light logos
 -----------
 
 Plain logo:
-![Logo](light/logo_plain_light.png)
+<img src="light/logo_plain_light.png" width=60>
 
 Texted logo:
-![Logo](light/logo_texted_light.png)
+<img src="light/logo_texted_light.png" width=300>
 
 Pure text:
-![Logo](light/logo_puretext_light.png)
+<img src="light/logo_puretext_light.png" width=240>
