@@ -8,7 +8,7 @@ Standard logos
 
 Plain logo:
 
-<img src="standard/logo_plain.png" width=100>
+<img src="standard/logo_plain.png" width=90>
 
 Texted logo:
 
@@ -23,7 +23,7 @@ Light logos
 
 Plain logo:
 
-<img src="light/logo_plain_light.png" width=100>
+<img src="light/logo_plain_light.png" width=80>
 
 Texted logo:
 
