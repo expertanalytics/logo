@@ -3,12 +3,12 @@ Expert Analytics' logo
 
 Here is a collection of Expert Analytics logos.
 
-Standard logos
---------------
+[Standard logos](standard/)
+---------------------------
 
 Plain logo:
 
-<img src="standard/logo_plain.png" width=90>
+<img src="standard/logo_plain.png" width=75>
 
 Texted logo:
 
@@ -18,12 +18,12 @@ Pure text:
 
 <img src="standard/logo_puretext.png" width=500>
 
-Light logos
------------
+[Light logos](light/)
+---------------------
 
 Plain logo:
 
-<img src="light/logo_plain_light.png" width=80>
+<img src="light/logo_plain_light.png" width=75>
 
 Texted logo:
 
