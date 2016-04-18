@@ -1,5 +1,5 @@
-Expert Analytics' logo
-======================
+Expert Analytics' Design profile
+================================
 
 Here is a collection of Expert Analytics logos.
 
@@ -28,3 +28,9 @@ Plain: Texted:
 Text only:
 
 <img src="light/logo_puretext_light.png" width=300>
+
+[Beamer template](beamer/)
+--------------------------
+Resources for creating beamer slides.
+
+<img = src="beamer/demo_slides.pdf" width=250>
