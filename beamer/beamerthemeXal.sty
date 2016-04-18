@@ -1,4 +1,27 @@
-\usepackage{ubuntu}
+\newif\ifusefontspec
+\newif\ifuseubuntuinstall
+\DeclareOptionBeamer{fontspec}{\usefontspectrue}
+\DeclareOptionBeamer{installed}{\useubuntuinstalltrue}
+\ProcessOptionsBeamer
+
+\ifusefontspec
+  \usepackage{fontspec}
+  \setmainfont{Ubuntu}
+  \setmonofont{Ubuntu Mono}
+\else
+  \ifuseubuntuinstall
+    \usepackage{ubuntu}
+  \else
+    \usepackage{ifluatex}
+    \ifluatex
+      \usepackage{fontspec}
+      \setmainfont{Ubuntu}
+      \setmonofont{Ubuntu Mono}
+    \else
+      \usepackage{ubuntu}
+    \fi
+  \fi
+\fi
 
 \definecolor{xalblue}{rgb}{0.1719,0.3516,0.6250}
 \definecolor{xaldark}{rgb}{0.1290,0.2566,0.4688}
