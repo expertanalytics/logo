@@ -21,4 +21,4 @@ Options
 The style will use the the package `ifluatex` to determine if `fontspec` should
 be used, or if ubuntufont should be available in path. However if the default
 doesn't work or `ifluatex` is missing, the font import strategy can be forced
-using the options `\usetheme[fontspec]{Xal}` or `\usetheme[installed]{Xal}
+using the options `\usetheme[fontspec]{Xal}` or `\usetheme[installed]{Xal}`.
