@@ -33,4 +33,5 @@ Text only:
 --------------------------
 Resources for creating beamer slides.
 
-<img = src="beamer/demo_slides.png" width=250>
+<img = src="beamer/demo_slides_1.png" width=250>
+<img = src="beamer/demo_slides_2.png" width=250>
