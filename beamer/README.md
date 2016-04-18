@@ -7,7 +7,8 @@ To use the provided latex beamer template, the Ubuntu font has to be available
 for `mktexlsr`. For `latex` and `pdflatex` this can be a painful process to
 install manually. We recommend using the following installation package:
 [ubuntu-latex-fonts](https://github.com/tzwenn/ubuntu-latex-fonts). For `xetex`
-and `luatex` the package `fontspec` makes this much easier.
+and `luatex` the package `fontspec` makes this much easier, and no installation
+is required.
 
 Usage
 -----
