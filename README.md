@@ -1,4 +1,4 @@
-Expert Analytics' Design profile
+Expert Analytics' design profile
 ================================
 
 Here is a collection of Expert Analytics logos.
