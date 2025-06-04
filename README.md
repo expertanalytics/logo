@@ -21,6 +21,13 @@ Meant for dark backgrounds.
 
 <img src="light/logo_puretext_light.png" width=300>
 
+[Pride logos](pride/)
+---------------------
+For use during Pride month.
+
+<img src="pride/logo_pride.png" width=100>
+<img src="pride/logo_pride_alt.png" width=100>
+
 [Beamer template](beamer/)
 --------------------------
 Resources for creating beamer slides.
